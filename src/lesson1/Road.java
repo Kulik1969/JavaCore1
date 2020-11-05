@@ -26,6 +26,7 @@ public class Road extends Barrier {
             System.out.println("Человек не удачно пробежал");
 
             return false;
+
         }
     }
 

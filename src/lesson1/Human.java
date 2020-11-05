@@ -29,4 +29,5 @@ public class Human implements Actions {
         return this.jumpHeight;
     }
 
+
 }

@@ -16,4 +16,5 @@ public abstract class Barrier {
     public String getName() {
         return name;
     }
+
 }

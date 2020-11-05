@@ -11,6 +11,7 @@ public class Cat implements Actions {
         this.jumpHeight = jumpHeight;
     }
 
+
     @Override
     public  void run() {
         System.out.println("Кот " + this.name + " сила " + this.getRunDistance());
@@ -29,3 +30,4 @@ public class Cat implements Actions {
         return this.jumpHeight;
     }
 }
+
