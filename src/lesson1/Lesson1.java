@@ -69,6 +69,7 @@ public class Lesson1 {
                 System.out.println("Успех!!");
             } else {
                 System.out.println("Безуспешно!!");
+
             }
         }
     }

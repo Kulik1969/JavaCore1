@@ -27,6 +27,7 @@ public class Wall extends Barrier {
         } else {
             System.out.println("Человек не удачный прыжок");
 
+
             return false;
         }
     }

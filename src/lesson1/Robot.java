@@ -25,6 +25,7 @@ public class Robot implements Actions {
         return this.runDistance;
     }
 
+
     public int getJumpHeight() {
         return this.jumpHeight;
     }
